@@ -1,0 +1,48 @@
+City_ID,City,Country,Lat,Lng,Max Temp,Humidity,Cloudiness,Wind Speed,Current Description
+0,Ribeira Grande,PT,38.5167,-28.7,289.85,94,100,6.42,overcast clouds
+1,Saint-Pierre,RE,-21.3393,55.4781,299.97,74,0,2.06,clear sky
+2,Vila Velha,BR,-20.3297,-40.2925,296.45,96,75,2.06,moderate rain
+3,Klaksvik,FO,62.2266,-6.589,276.66,98,100,16.66,overcast clouds
+4,Nome,US,64.5011,-165.4064,252.19,65,0,0.0,clear sky
+5,Cape Town,ZA,-33.9258,18.4232,293.3,82,0,5.66,clear sky
+6,Rikitea,PF,-23.1203,-134.9692,299.45,66,0,7.94,clear sky
+7,Kharovsk,RU,59.9642,40.1912,266.58,93,98,3.68,overcast clouds
+8,Mataura,NZ,-46.1927,168.8643,284.53,96,100,1.79,overcast clouds
+9,Tiksi,RU,71.6872,128.8694,252.23,87,100,6.59,overcast clouds
+10,Itarema,BR,-2.9248,-39.9167,298.3,88,47,3.68,scattered clouds
+11,Bluff,NZ,-46.6,168.3333,284.71,76,99,6.14,overcast clouds
+12,Solnechnyy,RU,50.7214,136.6319,264.22,88,100,3.22,light snow
+13,Vardo,NO,70.3705,31.1107,269.14,72,1,7.67,clear sky
+14,Sur,OM,22.5667,59.5289,294.87,51,0,2.09,clear sky
+15,Elbistan,TR,38.2059,37.1983,264.27,80,74,0.35,broken clouds
+16,Butaritari,KI,3.0707,172.7902,301.16,73,100,5.65,overcast clouds
+17,Barrow,US,71.2906,-156.7887,236.16,98,0,3.6,clear sky
+18,Busselton,AU,-33.65,115.3333,301.53,36,0,1.33,clear sky
+19,Urumqi,CN,43.801,87.6005,268.68,68,75,1.0,broken clouds
+20,Leningradskiy,RU,69.3833,178.4167,246.49,95,95,1.93,overcast clouds
+21,Faanui,PF,-16.4833,-151.75,300.54,73,95,5.51,overcast clouds
+22,Lorengau,PG,-2.0226,147.2712,302.86,65,95,0.63,overcast clouds
+23,Vila Franca Do Campo,PT,37.7167,-25.4333,289.93,91,100,3.94,overcast clouds
+24,Chuy,UY,-33.6971,-53.4616,292.02,90,100,4.84,overcast clouds
+25,Hobart,AU,-42.8794,147.3294,301.07,45,75,8.23,light rain
+26,East London,ZA,-33.0153,27.9116,295.67,100,40,4.12,scattered clouds
+27,Kambove,CD,-10.8764,26.5969,289.08,96,100,1.19,light rain
+28,Georgetown,MY,5.4112,100.3354,305.11,66,20,3.09,few clouds
+29,Praia Da Vitoria,PT,38.7333,-27.0667,291.29,77,75,3.96,broken clouds
+30,Leh,IN,34.1667,77.5833,259.04,75,100,0.98,overcast clouds
+31,Saint George,US,37.1041,-113.5841,287.79,23,0,1.54,clear sky
+32,Castro,BR,-24.7911,-50.0119,287.97,97,3,1.78,clear sky
+33,Repatriacion,PY,-25.5333,-55.95,296.25,67,9,3.16,clear sky
+34,Albany,US,42.6001,-73.9662,272.12,69,98,1.34,overcast clouds
+35,Quatre Cocos,MU,-20.2078,57.7625,300.98,83,30,5.78,light rain
+36,Vaini,TO,-21.2,-175.2,303.24,79,40,5.14,scattered clouds
+37,Ushuaia,AR,-54.8,-68.3,279.96,70,100,1.54,light rain
+38,Hermanus,ZA,-34.4187,19.2345,291.98,82,60,1.99,broken clouds
+39,Iquitos,PE,-3.7481,-73.2472,297.17,94,20,0.51,few clouds
+40,Avarua,CK,-21.2078,-159.775,302.18,70,75,1.03,broken clouds
+41,Kutum,SD,14.2,24.6667,286.09,20,27,3.32,scattered clouds
+42,Jamestown,US,42.097,-79.2353,266.53,47,100,2.57,overcast clouds
+43,Qaanaaq,GL,77.484,-69.3632,244.61,49,0,3.82,clear sky
+44,Svetlogorsk,BY,52.6333,29.7333,269.54,84,49,3.8,scattered clouds
+45,Xuddur,SO,4.1213,43.8894,292.48,75,90,4.89,overcast clouds
+46,Pochutla,MX,15.7432,-96.4661,298.62,66,11,1.64,few clouds
